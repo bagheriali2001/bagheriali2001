@@ -89,6 +89,81 @@
 I try to track my coding activity, but sometimes it gets out of hand 😅
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-812%20hrs%2054%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.6%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 286.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 140 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 16 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+🌆 Daytime                238 commits         █████████░░░░░░░░░░░░░░░░   35.52 % 
+🌃 Evening                306 commits         ███████████░░░░░░░░░░░░░░   45.67 % 
+🌙 Night                  67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   134 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Tuesday                  58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Wednesday                146 commits         █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+Thursday                 74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Friday                   65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Saturday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Sunday                   113 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               10 repos            █████████░░░░░░░░░░░░░░░░   37.04 % 
+Vue                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/bagheriali2001/bagheriali2001/main/assets/bar_graph.png)
+
+
+ Last Updated on 2023/08/18 18:02:31 UTC
 <!--END_SECTION:waka-->
 
 ### Github Stats 📈
