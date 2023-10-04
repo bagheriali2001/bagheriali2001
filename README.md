@@ -1,6 +1,6 @@
 <span align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=120&lines=%22Think+first%2C+commit+second%2C+push+third.;In+no+particular+order.;%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4-+Micheal+Scott%22;%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4-+Ali+Bagheri)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Think+first%2C+commit+second%2C+push+third.;In+no+particular+order.)](https://git.io/typing-svg)
 
 </span>
 
