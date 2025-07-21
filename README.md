@@ -89,7 +89,7 @@
 I try to track my coding activity, but sometimes it gets out of hand 😅
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C381%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C381%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.5%20million%20lines%20of%20code-blue)
 
@@ -120,14 +120,14 @@ Sunday                   183 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-JavaScript               21 mins             ████████████████████████░   96.54 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+JavaScript               14 mins             ████████████████████████░   95.13 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+Mac                      15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
