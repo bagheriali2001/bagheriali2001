@@ -89,45 +89,7 @@
 I try to track my coding activity, but sometimes it gets out of hand 😅
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C387%20hrs%2024%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.09%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-🌆 Daytime                371 commits         ████████░░░░░░░░░░░░░░░░░   33.79 % 
-🌃 Evening                499 commits         ███████████░░░░░░░░░░░░░░   45.45 % 
-🌙 Night                  91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   214 commits         █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Tuesday                  117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Wednesday                191 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Thursday                 120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Friday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Saturday                 143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Sunday                   185 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tehran
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
