@@ -93,6 +93,42 @@ I try to track my coding activity, but sometimes it gets out of hand 😅
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.13%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+🌆 Daytime                376 commits         ████████░░░░░░░░░░░░░░░░░   33.90 % 
+🌃 Evening                505 commits         ███████████░░░░░░░░░░░░░░   45.54 % 
+🌙 Night                  91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   214 commits         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Tuesday                  117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Wednesday                192 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Thursday                 123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Friday                   132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Saturday                 144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Sunday                   187 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
