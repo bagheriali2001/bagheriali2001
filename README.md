@@ -89,7 +89,7 @@
 I try to track my coding activity, but sometimes it gets out of hand 😅
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C425%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C426%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.13%20million%20lines%20of%20code-blue?style=flat)
 
@@ -120,17 +120,15 @@ Sunday                   187 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Python                   18 mins             █████████████████████░░░░   83.98 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-CSV                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Python                   36 mins             █████████████░░░░░░░░░░░░   52.92 % 
+JSON                     24 mins             █████████░░░░░░░░░░░░░░░░   35.10 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
