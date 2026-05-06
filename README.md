@@ -120,15 +120,15 @@ Sunday                   187 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Python                   36 mins             █████████████░░░░░░░░░░░░   52.92 % 
-JSON                     24 mins             █████████░░░░░░░░░░░░░░░░   35.10 % 
-Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Python                   33 mins             █████████████░░░░░░░░░░░░   50.90 % 
+JSON                     24 mins             █████████░░░░░░░░░░░░░░░░   36.60 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
+Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
