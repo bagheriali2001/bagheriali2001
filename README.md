@@ -9,7 +9,7 @@
 <p style="font-size: 1.3rem;">
   <samp>
     Hi, I'm Ali! 👋 <br>
-    🔥 25 Year's Old Software Developer. I try to make cool things and useful tools. <br>
+    🔥 25 Year's Old Software Developer. I try to make cool things and useful tools (Mostly for others in exchange for money). <br>
     <!-- Add this text with an emoji at the start "" -->
     👨‍💻 You can always check my latest projects in my website <a href="https://bagheriali.dev/">bagheriali.dev</a>
 </p>
